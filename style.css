@@ -1,0 +1,9 @@
+.section {
+  width: 100%;
+  font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+  background: url("../images/img.jpg") cover no-repeat;
+}
+
+.text__1 {
+  color: aqua;
+}
